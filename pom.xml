@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>info.jasonfried.jira.plugins</groupId>
     <artifactId>ProjectCreationWorkflow</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.01-SNAPSHOT</version>
 
     <organization>
         <name>Jason Fried</name>
@@ -15,7 +15,7 @@
     </organization>
 
     <name>ProjectCreationWorkflow</name>
-    <description>This is the info.jasonfried.jira.plugins:ProjectCreationWorkflow plugin for Atlassian JIRA.</description>
+    <description>A set of workflow validators and post-functions for automated JIRA project creation.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
