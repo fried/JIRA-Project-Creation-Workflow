@@ -18,6 +18,17 @@
                 <checksumPolicy>fail</checksumPolicy>
             </releases>
         </repository>
+        <repository>
+            <id>local-atlassian-plugin-sdk</id>
+            <url>http://fileshare.hgdc/maven/atlassian-plugin-sdk-3.3.4</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <releases>
+                <enabled>true</enabled>
+                <checksumPolicy>warn</checksumPolicy>
+            </releases>
+        </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
