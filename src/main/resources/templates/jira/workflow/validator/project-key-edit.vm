@@ -1,0 +1,8 @@
+<tr bgcolor="#ffffff">
+    <td align="right" valign="top" bgcolor="#fffff0">
+        <span class="label">Choose the customfield that contains the JIRA project Key:</span>
+    </td>
+    <td bgcolor="#ffffff" nowrap>
+        #selectMap ("selected-key-field" ${key-field})
+    </td>
+</tr>
